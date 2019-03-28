@@ -5,7 +5,7 @@ class Person
 end
 
 class Dog
-  def initalize(name)
+  def name(name)
     @name = name
   end
 end
